@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseTracker",
+  "description": "Personal Expense & Category Tracker with monthly spending summaries, category analytics, and quick transaction logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
